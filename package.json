@@ -1,0 +1,11 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "license": "",
+  "author": "",
+  "devDependencies": {
+    "typescript": "3.5.3"
+  }
+}

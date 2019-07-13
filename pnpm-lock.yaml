@@ -1,0 +1,49 @@
+importers:
+  .:
+    devDependencies:
+      typescript: 3.5.3
+    specifiers:
+      typescript: 3.5.3
+  package-a:
+    dependencies:
+      fp-ts: 2.0.1
+      io-ts: 2.0.0_fp-ts@2.0.1
+    devDependencies:
+      typescript: 3.5.3
+    specifiers:
+      fp-ts: ^2.0.1
+      io-ts: ^2.0.0
+      typescript: 3.5.3
+  package-b:
+    dependencies:
+      fp-ts: 2.0.1
+      io-ts: 2.0.0_fp-ts@2.0.1
+      package-a: 'link:../package-a'
+    devDependencies:
+      typescript: 3.5.3
+    specifiers:
+      fp-ts: ^2.0.1
+      io-ts: ^2.0.0
+      package-a: 1.0.0
+      typescript: 3.5.3
+lockfileVersion: 5.1
+packages:
+  /fp-ts/2.0.1:
+    dev: false
+    resolution:
+      integrity: sha512-tw/L1f6hd29bYk3IlhA3qdnqz9LJ13yeecjk0XqC8g9E76P5ZXzNcjXA5zQ0zNlsGhdVhDIHRJB738oGpB8PnA==
+  /io-ts/2.0.0_fp-ts@2.0.1:
+    dependencies:
+      fp-ts: 2.0.1
+    dev: false
+    peerDependencies:
+      fp-ts: ^2.0.0
+    resolution:
+      integrity: sha512-6i8PKyNR/dvEbUU9uE+v4iVFU7l674ZEGQsh92y6xEZF/rj46fXbPy+uPPXJEsCP0J0X3UpzXAxp04K4HR2jVw==
+  /typescript/3.5.3:
+    dev: true
+    engines:
+      node: '>=4.2.0'
+    hasBin: true
+    resolution:
+      integrity: sha512-ACzBtm/PhXBDId6a6sDJfroT2pOWt/oOnk4/dElG5G33ZL776N3Y6/6bKZJBFpd+b05F3Ct9qDjMeJmRWtE2/g==

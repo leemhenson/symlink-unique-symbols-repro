@@ -1,0 +1,15 @@
+{
+  "name": "package-a",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "license": "",
+  "author": "",
+  "devDependencies": {
+    "typescript": "3.5.3"
+  },
+  "dependencies": {
+    "fp-ts": "^2.0.1",
+    "io-ts": "^2.0.0"
+  }
+}
