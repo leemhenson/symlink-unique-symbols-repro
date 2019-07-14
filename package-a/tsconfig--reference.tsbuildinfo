@@ -138,124 +138,128 @@
         "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts": {
-        "version": "291b694e718ff5da6f0808ef7f4d8385cec242f82d6fc715ccf64add336a6503",
-        "signature": "291b694e718ff5da6f0808ef7f4d8385cec242f82d6fc715ccf64add336a6503"
+        "version": "cb17c3458e4fae1d702e08c4dbfc81ac0122778cd1a24a194170f087a6d7df97",
+        "signature": "cb17c3458e4fae1d702e08c4dbfc81ac0122778cd1a24a194170f087a6d7df97"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts": {
-        "version": "86487c6090ed5e257dbba5a5c46ed0740e889bb629c88261434ba96c355a3a71",
-        "signature": "86487c6090ed5e257dbba5a5c46ed0740e889bb629c88261434ba96c355a3a71"
+        "version": "154b98389bd5ea9a2f5ad1cbf68332d58e5ddf7dc25a85c2e7fe0e3ef50b4b70",
+        "signature": "154b98389bd5ea9a2f5ad1cbf68332d58e5ddf7dc25a85c2e7fe0e3ef50b4b70"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alt.d.ts": {
-        "version": "27058b75e9e55e1737109b972dd6d1497fccbb1b7c7d8c72af281c1a16ba97ab",
-        "signature": "27058b75e9e55e1737109b972dd6d1497fccbb1b7c7d8c72af281c1a16ba97ab"
+        "version": "e91e852bd505e5aa9d60c1d6313f59101befaa411c11a36b30421ff05633b585",
+        "signature": "e91e852bd505e5aa9d60c1d6313f59101befaa411c11a36b30421ff05633b585"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bifunctor.d.ts": {
-        "version": "40da4f3fb8c09de783e084ee3503af5e33580bee242a2037ce77efbf41f37e86",
-        "signature": "40da4f3fb8c09de783e084ee3503af5e33580bee242a2037ce77efbf41f37e86"
+        "version": "faaa1ad23a0e875fe17c4c3ef10ebddc679e49de64b3b35c7b2832965db35496",
+        "signature": "faaa1ad23a0e875fe17c4c3ef10ebddc679e49de64b3b35c7b2832965db35496"
       },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/apply.d.ts": {
-        "version": "6580ec103eb25e4ac5cbcf806205d28176def84f5ad12665528a7d1f2ce3f4fa",
-        "signature": "6580ec103eb25e4ac5cbcf806205d28176def84f5ad12665528a7d1f2ce3f4fa"
-      },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chain.d.ts": {
-        "version": "c290052b50b6927f91930bdfb4f145d972a3441f68eb1d0caae7c34a6e111cdf",
-        "signature": "c290052b50b6927f91930bdfb4f145d972a3441f68eb1d0caae7c34a6e111cdf"
-      },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chainrec.d.ts": {
-        "version": "ab4df08491fc8518a8aedfad89f72134af22fb61c74d681aede004d650314cc7",
-        "signature": "ab4df08491fc8518a8aedfad89f72134af22fb61c74d681aede004d650314cc7"
-      },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/contravariant.d.ts": {
-        "version": "17afa128914ce3f7f61894b64cd965acbe828f72522adc4ae2d0416fea184e5d",
-        "signature": "17afa128914ce3f7f61894b64cd965acbe828f72522adc4ae2d0416fea184e5d"
-      },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts": {
-        "version": "44ebc635c8b94801af1b52f81bd216c87758990818b6af6f00345547699fa4b7",
-        "signature": "44ebc635c8b94801af1b52f81bd216c87758990818b6af6f00345547699fa4b7"
-      },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/extend.d.ts": {
-        "version": "6f5bbf3036af9c7f3006e9542b4734310c3cd141996f78948b1547990b8d7c0e",
-        "signature": "6f5bbf3036af9c7f3006e9542b4734310c3cd141996f78948b1547990b8d7c0e"
-      },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts": {
-        "version": "d8ee487a637cb31ca057279bea11d96de7eadd53b74cd6f036762a2b7f6453b6",
-        "signature": "d8ee487a637cb31ca057279bea11d96de7eadd53b74cd6f036762a2b7f6453b6"
-      },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts": {
-        "version": "d399c4208d319d7a8d49ec633f24da08a29e450326c8ac1be9b7434b077d6aaf",
-        "signature": "d399c4208d319d7a8d49ec633f24da08a29e450326c8ac1be9b7434b077d6aaf"
-      },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/magma.d.ts": {
-        "version": "f5b64906ef2d8e60fdfb2355c88bc9b3f7d015b29251166c3d56b30606c2222d",
-        "signature": "f5b64906ef2d8e60fdfb2355c88bc9b3f7d015b29251166c3d56b30606c2222d"
-      },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts": {
-        "version": "cd3155555dfffa4f451ee997e55df1b159aa6283ce32cfafecb8e75846e3cf79",
-        "signature": "cd3155555dfffa4f451ee997e55df1b159aa6283ce32cfafecb8e75846e3cf79"
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts": {
+        "version": "c3f9118a1aa1cce18468c3ca5241bfb02f92b544b78ce0fc3aa3611a0ab5bbf5",
+        "signature": "c3f9118a1aa1cce18468c3ca5241bfb02f92b544b78ce0fc3aa3611a0ab5bbf5"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ordering.d.ts": {
-        "version": "815786713a910ef352ea4cfa94d35ea89410425f79ed0bf5027138a8cca75c17",
-        "signature": "815786713a910ef352ea4cfa94d35ea89410425f79ed0bf5027138a8cca75c17"
+        "version": "ad22de5912159ef4385d1c7251cc290f4d5b9c7aef7f20ebe03e5145dec47857",
+        "signature": "ad22de5912159ef4385d1c7251cc290f4d5b9c7aef7f20ebe03e5145dec47857"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts": {
-        "version": "21f7686c33faa3114cb23beeb2ff99030a86b345e04c88a7c0ef708b875fc448",
-        "signature": "21f7686c33faa3114cb23beeb2ff99030a86b345e04c88a7c0ef708b875fc448"
+        "version": "dc4e62950f62eaba7de54cba984236b6eedcc603383a11f46e9bded70b10636f",
+        "signature": "dc4e62950f62eaba7de54cba984236b6eedcc603383a11f46e9bded70b10636f"
       },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bounded.d.ts": {
-        "version": "e6dc2341cad4f8e2a558b2b03dc634014fac128cdaf714676aae8ef542ef10b5",
-        "signature": "e6dc2341cad4f8e2a558b2b03dc634014fac128cdaf714676aae8ef542ef10b5"
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts": {
+        "version": "cd5aaf7e69b651cb0cf5f328a16fd9eb0ef7efa60f4a36247a3d234567f9195f",
+        "signature": "cd5aaf7e69b651cb0cf5f328a16fd9eb0ef7efa60f4a36247a3d234567f9195f"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts": {
-        "version": "073ae59a3b783c1a08e96573e2c0f3722437969c84d27ca64e26367d99d64cdf",
-        "signature": "073ae59a3b783c1a08e96573e2c0f3722437969c84d27ca64e26367d99d64cdf"
+        "version": "1f844ea5cf91d3b4f12a4bf382b3ff0f6c2957de0624a0848bab5dc3459e7cb6",
+        "signature": "1f844ea5cf91d3b4f12a4bf382b3ff0f6c2957de0624a0848bab5dc3459e7cb6"
+      },
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/apply.d.ts": {
+        "version": "3201f1285e312dc7a286a5346aa54a65dcc7bdd70e3b6e7a705c1fc9fd822518",
+        "signature": "3201f1285e312dc7a286a5346aa54a65dcc7bdd70e3b6e7a705c1fc9fd822518"
+      },
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chain.d.ts": {
+        "version": "b64fec1fbc14b456e87822c472bc784433099021a3175426793bd629f6e24a69",
+        "signature": "b64fec1fbc14b456e87822c472bc784433099021a3175426793bd629f6e24a69"
+      },
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chainrec.d.ts": {
+        "version": "428dd204aa884e53bd59e184726d3e99961988391af99971400cf5e50734cc12",
+        "signature": "428dd204aa884e53bd59e184726d3e99961988391af99971400cf5e50734cc12"
+      },
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bounded.d.ts": {
+        "version": "a415fed8f22c14126d644163cc022362f3845de98f276b5fc7966bc9126b879f",
+        "signature": "a415fed8f22c14126d644163cc022362f3845de98f276b5fc7966bc9126b879f"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts": {
-        "version": "d5f633a4a2acc2bf53b6294dae33bfb2986408dede4cec5524a769b5141fd113",
-        "signature": "d5f633a4a2acc2bf53b6294dae33bfb2986408dede4cec5524a769b5141fd113"
+        "version": "cd960c9096acba9e96644718bf8e4b7164a9e1fefb6ffea4a3f3092bbf51a950",
+        "signature": "cd960c9096acba9e96644718bf8e4b7164a9e1fefb6ffea4a3f3092bbf51a950"
       },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts": {
-        "version": "9e8eb7a1bf4ff0a4bf3d26956cd816dc69d6889a852c3293bdd711469419912a",
-        "signature": "9e8eb7a1bf4ff0a4bf3d26956cd816dc69d6889a852c3293bdd711469419912a"
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts": {
+        "version": "3cc1be7a92307a14cc53e908aee08c2d0e9d4ba7e13481e0a20357b8587d7447",
+        "signature": "3cc1be7a92307a14cc53e908aee08c2d0e9d4ba7e13481e0a20357b8587d7447"
       },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monadthrow.d.ts": {
-        "version": "d5969aa49d0f0ae04c7a728f0bff08476722bcebb60febb999524ee239cc735f",
-        "signature": "d5969aa49d0f0ae04c7a728f0bff08476722bcebb60febb999524ee239cc735f"
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts": {
+        "version": "6b1a405211b823bb72860aecda7a16e2aaa1f01fb2bc51ce65028d148655f3a0",
+        "signature": "6b1a405211b823bb72860aecda7a16e2aaa1f01fb2bc51ce65028d148655f3a0"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alternative.d.ts": {
-        "version": "f1b1c8f1df666c36b1bc3a077754c74a1335adbd8cf56d8597fda89d2e9c83bb",
-        "signature": "f1b1c8f1df666c36b1bc3a077754c74a1335adbd8cf56d8597fda89d2e9c83bb"
+        "version": "66df6c0224cc4746da38b73ec8c72bbe61a5a68a56020b502cd7a95e8de0f3e8",
+        "signature": "66df6c0224cc4746da38b73ec8c72bbe61a5a68a56020b502cd7a95e8de0f3e8"
       },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts": {
-        "version": "2b8f61430e267313d4aa8371504ee6d39cd76236e1ddc8d07edb4517a094d9ef",
-        "signature": "2b8f61430e267313d4aa8371504ee6d39cd76236e1ddc8d07edb4517a094d9ef"
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/extend.d.ts": {
+        "version": "95cd0b8b7b22b812d308885cc10e93b82184aef0c0aacbc020fc3d905e3c0036",
+        "signature": "95cd0b8b7b22b812d308885cc10e93b82184aef0c0aacbc020fc3d905e3c0036"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/filterable.d.ts": {
-        "version": "79ab1c62c290fd15a7f52a8b9d0e5ef0e37091b71d496b03847853096c8c66b8",
-        "signature": "79ab1c62c290fd15a7f52a8b9d0e5ef0e37091b71d496b03847853096c8c66b8"
+        "version": "feaffdfa8e5ea1d5cbff69870ea2ad4a87eb2e73224e658df918bb15d7264d21",
+        "signature": "feaffdfa8e5ea1d5cbff69870ea2ad4a87eb2e73224e658df918bb15d7264d21"
       },
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/show.d.ts": {
-        "version": "09d2ebeb466d608d1906e5ad9b8bf091fa65c1ed2c7e6437a1cd2da487b794e1",
-        "signature": "09d2ebeb466d608d1906e5ad9b8bf091fa65c1ed2c7e6437a1cd2da487b794e1"
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts": {
+        "version": "b6b56e13523375f0ca80f51bc37c4de9b01b7234b25565ef57a9e0a16d884bac",
+        "signature": "b6b56e13523375f0ca80f51bc37c4de9b01b7234b25565ef57a9e0a16d884bac"
+      },
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semiring.d.ts": {
+        "version": "8fd564ebc66fa8686e02c90b71320e6bb6f1605e9f48c55499fff0e182364db8",
+        "signature": "8fd564ebc66fa8686e02c90b71320e6bb6f1605e9f48c55499fff0e182364db8"
+      },
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts": {
+        "version": "396203a36400fb1736cbb4b447a372048a884af7318f83e21d67efcc43c667e4",
+        "signature": "396203a36400fb1736cbb4b447a372048a884af7318f83e21d67efcc43c667e4"
+      },
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts": {
+        "version": "68ac12ad2044484dd4dbf03dc316c89d88f88c20a3e1c6038df322cd2828be83",
+        "signature": "68ac12ad2044484dd4dbf03dc316c89d88f88c20a3e1c6038df322cd2828be83"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable.d.ts": {
-        "version": "211a11e0e982835b96f022d3b835feba486911a40e2c6c0bdc9f7df60ad6132f",
-        "signature": "211a11e0e982835b96f022d3b835feba486911a40e2c6c0bdc9f7df60ad6132f"
+        "version": "f2366281f7d7901eddeb8c98a538dcb1f362a01f878c055c24c6363ef1b35281",
+        "signature": "f2366281f7d7901eddeb8c98a538dcb1f362a01f878c055c24c6363ef1b35281"
+      },
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable2v.d.ts": {
+        "version": "785ed223055afada8a5765acd402cf91fdd185149fc397a6967fbebc67477ff5",
+        "signature": "785ed223055afada8a5765acd402cf91fdd185149fc397a6967fbebc67477ff5"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/witherable.d.ts": {
-        "version": "d9414b38323abc8586cd1be6e7addb9f1e34769475bb478a85e36ebf4ad72b5b",
-        "signature": "d9414b38323abc8586cd1be6e7addb9f1e34769475bb478a85e36ebf4ad72b5b"
+        "version": "17e1a5c03b51210463f6ca83bf856f9961caf335eb01aa5ae8dbe485086672bb",
+        "signature": "17e1a5c03b51210463f6ca83bf856f9961caf335eb01aa5ae8dbe485086672bb"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts": {
-        "version": "d222af73e313757e6191304609ce4c1e35ec73cda47d377db426aaa47625ab0e",
-        "signature": "d222af73e313757e6191304609ce4c1e35ec73cda47d377db426aaa47625ab0e"
+        "version": "f9f4e11281dfeae4b4929405c3fdbd6694420dbf9d74f8491bdbfd841e3a4299",
+        "signature": "f9f4e11281dfeae4b4929405c3fdbd6694420dbf9d74f8491bdbfd841e3a4299"
+      },
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts": {
+        "version": "2859a6202faffdb5c716e77d1fff8d3c546cab71568cc5b790c2f73eabab9506",
+        "signature": "2859a6202faffdb5c716e77d1fff8d3c546cab71568cc5b790c2f73eabab9506"
+      },
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/validation.d.ts": {
+        "version": "ffe8bdf1b415580c3f8a5bb3ba10116bf5d3758de0a4119e545ef3d7fda94d20",
+        "signature": "ffe8bdf1b415580c3f8a5bb3ba10116bf5d3758de0a4119e545ef3d7fda94d20"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts": {
-        "version": "bf7004d25174dab5a32322c234b3195d8b01c88065f5d4579011f8cbcafe1fc2",
-        "signature": "bf7004d25174dab5a32322c234b3195d8b01c88065f5d4579011f8cbcafe1fc2"
+        "version": "e2e94826007102b406700a4a113f765b06c466695fad098c759550c44c83c3c7",
+        "signature": "e2e94826007102b406700a4a113f765b06c466695fad098c759550c44c83c3c7"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/io-ts/lib/index.d.ts": {
-        "version": "e220969379e574044f353e08e1a4e807e4562a0bf552fd7716fd090f984bac43",
-        "signature": "e220969379e574044f353e08e1a4e807e4562a0bf552fd7716fd090f984bac43"
+        "version": "9d7b9bba2759155cd6ea462528f52adca743682c756f51c7349f306b87396db3",
+        "signature": "9d7b9bba2759155cd6ea462528f52adca743682c756f51c7349f306b87396db3"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/src/nonemptystring.ts": {
         "version": "663925ababb14c5d8c2b69d5fe8c8d67f07946353c073f4a818238a1da5b4295",
@@ -274,8 +278,8 @@
         "signature": "b7b38cfc3a5d79c8691ea799d6ecf14e44563028772932c427d3b6f9c4138727"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/src/loader.ts": {
-        "version": "438b6e92fdaddfef2bb34d2bea7849eae06fc4b21a27996290b3830a4151956b",
-        "signature": "c3a37abf76cd624cc7fdefa09e86fa2e2de369a5b19cec9e2afb7b81362c90a4"
+        "version": "e23c8dfbe2131c7ffb4b86136d3cad98b67f676cac5f8b37411148a308d242f2",
+        "signature": "b9837b7911de6225f63d9b36c0484a1bd2f872bb11f0a30af9b8562778e7e925"
       }
     },
     "options": {
@@ -320,9 +324,26 @@
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bifunctor.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
       ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ordering.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ordering.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
+      ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/apply.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chain.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/apply.d.ts",
@@ -333,47 +354,6 @@
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
       ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/contravariant.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/contravariant.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/extend.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/apply.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chain.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/magma.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ordering.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ordering.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/contravariant.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts"
-      ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bounded.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts"
       ],
@@ -382,26 +362,24 @@
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts"
       ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monadthrow.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alternative.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/apply.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts"
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alternative.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/extend.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/filterable.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts",
@@ -411,11 +389,48 @@
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts"
       ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chain.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semiring.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semiring.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts"
+      ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable2v.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/witherable.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
@@ -430,39 +445,64 @@
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alternative.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/extend.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/filterable.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/show.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable2v.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/witherable.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monadthrow.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/validation.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/validation.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bifunctor.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/filterable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable2v.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/witherable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alt.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bifunctor.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chainrec.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/extend.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/filterable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monadthrow.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/show.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable2v.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/validation.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/witherable.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts"
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/io-ts/lib/index.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
@@ -496,20 +536,20 @@
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alt.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bifunctor.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chainrec.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/extend.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/filterable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monadthrow.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/show.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable2v.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/validation.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/witherable.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts"
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/io-ts/lib/index.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
@@ -537,24 +577,49 @@
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/src/nonemptystring.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/io-ts/lib/index.d.ts"
       ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/validation.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bifunctor.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/filterable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable2v.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/witherable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts"
+      ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alternative.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/extend.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/filterable.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/show.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable2v.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/witherable.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monadthrow.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/validation.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/witherable.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
@@ -573,34 +638,37 @@
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts"
       ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semiring.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable2v.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ordering.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/contravariant.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bounded.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bounded.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts"
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts"
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semiring.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
@@ -608,51 +676,34 @@
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
       ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/magma.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ordering.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/contravariant.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts"
-      ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chainrec.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chain.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alternative.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
-      ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monadthrow.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chain.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
       ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/apply.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
-      ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/extend.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
       ],
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/contravariant.d.ts": [
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alternative.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alt.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/apply.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chain.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/apply.d.ts",
@@ -660,7 +711,17 @@
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/apply.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bounded.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bifunctor.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
@@ -671,6 +732,21 @@
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/hkt.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ordering.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bounded.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts"
+      ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ordering.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -712,30 +788,31 @@
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/functor.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alt.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bifunctor.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/setoid.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ordering.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/apply.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chain.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/chainrec.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/contravariant.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/eq.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/extend.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/magma.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semigroup.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ordering.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/ord.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/bounded.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/function.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monoid.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monadthrow.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/applicative.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/plus.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/alternative.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/extend.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/filterable.d.ts",
-      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/show.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/monad.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/semiring.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/foldable2v.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/traversable2v.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/witherable.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/option.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/compactable.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/validation.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/fp-ts/lib/either.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/node_modules/io-ts/lib/index.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-a/src/nonemptystring.ts",

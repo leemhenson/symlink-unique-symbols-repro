@@ -9,7 +9,10 @@
     "typescript": "3.5.3"
   },
   "dependencies": {
-    "fp-ts": "^2.0.1",
-    "io-ts": "^2.0.0"
+    "fp-ts": "1.15.0",
+    "io-ts": "1.8.5"
+  },
+  "resolutions": {
+    "fp-ts": "1.15.0"
   }
 }

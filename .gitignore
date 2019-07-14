@@ -1,3 +1,4 @@
 node_modules
 .emitted
+*.tsbuildinfo
 .vscode

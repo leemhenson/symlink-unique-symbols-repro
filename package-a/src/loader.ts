@@ -8,6 +8,6 @@ export const Result = t.type({
   name: NonEmptyString,
 });
 
-export type Result = t.TypeOf<typeof Result>;
+export interface Result extends t.TypeOf<typeof Result> {};
 
 export const loader = (hasApi: HasApi): Promise<Result> => Promise.reject();
