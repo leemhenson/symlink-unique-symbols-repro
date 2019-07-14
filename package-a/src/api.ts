@@ -1,9 +1,4 @@
-import { ThingId } from "./thingId";
-import { Thing } from "./thing";
-
-export type LoadThing = (_: {
-  id: ThingId;
-}) => Promise<Thing>;
+import { LoadThing } from "./loadThing";
 
 export type API = {
   loadThing: LoadThing,

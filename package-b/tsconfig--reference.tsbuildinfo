@@ -273,9 +273,13 @@
         "version": "e4d8235cc2d3ce674218991cb8b960e449f30daf67b34fe711b3018b992da398",
         "signature": "e4d8235cc2d3ce674218991cb8b960e449f30daf67b34fe711b3018b992da398"
       },
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/loadthing.d.ts": {
+        "version": "b97887fd0fd7a09a6e4fbd9575dadfbf5776c9fff44101add84242c4302c63ca",
+        "signature": "b97887fd0fd7a09a6e4fbd9575dadfbf5776c9fff44101add84242c4302c63ca"
+      },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/api.d.ts": {
-        "version": "5ff66790569a15f9400f659059ce3e327a00bb5925c011a5ba40929991d001d5",
-        "signature": "5ff66790569a15f9400f659059ce3e327a00bb5925c011a5ba40929991d001d5"
+        "version": "43c4674962cde2ad8a6385c168580da2b94fc60c629e66270f7bf14815df4b8d",
+        "signature": "43c4674962cde2ad8a6385c168580da2b94fc60c629e66270f7bf14815df4b8d"
       },
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/src/env.ts": {
         "version": "429ff8d24836ebde341246ca6310d7e81b71e238f44c3b281bb5fe53d45fed23",
@@ -528,9 +532,12 @@
         "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/nonemptystring.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thingid.d.ts"
       ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/loadthing.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thing.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thingid.d.ts"
+      ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/api.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thingid.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thing.d.ts"
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/loadthing.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/src/env.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/api.d.ts"
@@ -585,9 +592,12 @@
         "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/nonemptystring.d.ts",
         "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thingid.d.ts"
       ],
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/loadthing.d.ts": [
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thing.d.ts",
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thingid.d.ts"
+      ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/api.d.ts": [
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thingid.d.ts",
-        "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thing.d.ts"
+        "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/loadthing.d.ts"
       ],
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/src/env.ts": [
         "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/api.d.ts"
@@ -840,6 +850,7 @@
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/nonemptystring.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thingid.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/thing.d.ts",
+      "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/loadthing.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/api.d.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/src/env.ts",
       "/users/leehenson/src/symlink-unique-symbols-repro/package-b/node_modules/package-a/.emitted/loader.d.ts",
